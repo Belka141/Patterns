@@ -1,4 +1,4 @@
-package Adapter;
+package Structural.Adapter;
 
 public class AdapterJavaToDataBase extends JavaApplication implements DataBase {
 

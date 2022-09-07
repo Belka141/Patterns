@@ -1,4 +1,4 @@
-package Adapter;
+package Structural.Adapter;
 
 public interface DataBase {
     public void insert();
